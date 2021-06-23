@@ -1,10 +1,13 @@
 # Java Dockerfile
 
 - [x] 时区设置为 Asia/Shanghai
-- [x] 微信加解密
+- [x] [微信加解密](https://pay.weixin.qq.com/wiki/doc/apiv3/wechatpay/wechatpay7_2.shtml)
 - [x] 使用阿里云yum源
 - [x] 中文乱码问题
 
+## 目录说明
+- [x] [centos](centos) : 只有java环境,用于运行java服务
+- [x] [python-centos](python-centos) : 基于python底包的java环境和maven环境,用于jenkins打包编译java项目
 
 ## JDK 下载
 
