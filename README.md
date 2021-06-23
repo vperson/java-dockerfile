@@ -1,7 +1,7 @@
 # Java Dockerfile
 
 - [x] 时区设置为 Asia/Shanghai
-- [x] [微信加解密](https://pay.weixin.qq.com/wiki/doc/apiv3/wechatpay/wechatpay7_2.shtml)
+- [x] [~~微信加解密~~](https://pay.weixin.qq.com/wiki/doc/apiv3/wechatpay/wechatpay7_2.shtml)
 - [x] 使用阿里云yum源
 - [x] 中文乱码问题
 
